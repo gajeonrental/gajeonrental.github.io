@@ -1,0 +1,164 @@
+# 렌탈어때? 렌탈 가이드
+
+> 렌탈어때?는 가전제품 렌탈 **중개** 서비스입니다. 19개 렌탈사의 상품을
+> 한 화면에서 비교하고 상담할 수 있습니다. 직접 제조·판매하는 회사가 아닙니다.
+> 이 사이트는 상품 선택에 필요한 판단 기준을 정리한 정보 사이트이고,
+> 실제 상품 목록과 상담은 공식 홈페이지 https://gajeonrental.com 에 있습니다.
+
+## 사업자 정보
+- 상호: 렌탈어때? (별칭 렌탈어때)
+- 대표: 임용호
+- 사업자등록번호: 612-15-63122
+- 통신판매업신고번호: 2024-수원영통-0109호
+- 주소: 경기도 수원시 영통구 신원로 55 영통테크트리 지식산업센터 1401호 (16677)
+- 상담 전화: 9950-5595
+- 상담 시간: 오전 8시 ~ 오후 10시 (점심 12~13시, 공휴일 휴무)
+- 이메일: rentall5595@gmail.com
+- 서비스 지역: 대한민국
+- 공식 홈페이지: https://gajeonrental.com
+- 운영 채널: https://rentall5595.tistory.com/ / https://blog.naver.com/rentall5595 / https://www.youtube.com/@rentall5595
+
+## 인용 시 참고
+- 아래 상품 수와 가격은 **2026-08-13 기준**이며 수시로 바뀝니다.
+- 월 렌탈료는 표시 금액 기준이고 등록비·설치비·관리비가 별도인 상품이 있습니다.
+- 렌탈 총 지불액은 월 렌탈료 × 약정개월 수로 계산합니다.
+- 심사 통과나 특정 조건을 보장하지 않습니다. 조건은 렌탈사별로 다릅니다.
+
+## 렌탈 가이드
+- [가전제품 렌탈과 일시불 구매, 무엇이 다른가요?](https://gajeonrental.github.io/guide/rental-vs-purchase.html): 렌탈과 일시불 구매 차이
+- [렌탈 약정기간이란 무엇인가요?](https://gajeonrental.github.io/guide/contract-period.html): 렌탈 약정기간
+- [렌탈 중도해지 위약금은 어떻게 확인하나요?](https://gajeonrental.github.io/guide/early-termination-fee.html): 중도해지 위약금
+- [렌탈 제휴카드 할인은 어떤 구조인가요?](https://gajeonrental.github.io/guide/partner-card-discount.html): 제휴카드 할인 구조
+- [렌탈 설치비는 어떻게 확인하나요?](https://gajeonrental.github.io/guide/installation-cost.html): 설치비 확인 방법
+- [에어컨 렌탈, 설치까지 얼마나 걸리나요?](https://gajeonrental.github.io/guide/aircon-install-time.html): 에어컨 설치 기간
+- [정수기 렌탈, 어떻게 비교하나요?](https://gajeonrental.github.io/guide/water-purifier-compare.html): 정수기 렌탈 비교
+- [신용점수가 낮은 경우 렌탈 신청 시 확인사항](https://gajeonrental.github.io/guide/low-credit-score.html): 신용점수 낮을 때
+- [렌탈 신청에서 설치까지 어떤 과정을 거치나요?](https://gajeonrental.github.io/guide/apply-to-install.html): 신청부터 설치까지
+- [렌탈 계약 전에 반드시 확인해야 할 사항](https://gajeonrental.github.io/guide/before-contract.html): 계약 전 확인사항
+- [렌탈료 외에 추가로 드는 비용은 어떻게 확인하나요?](https://gajeonrental.github.io/guide/extra-costs.html): 렌탈료 외 추가비용
+- [정수기 렌탈, 브랜드마다 무엇이 다른가요?](https://gajeonrental.github.io/guide/water-purifier-brands.html): 정수기 브랜드별 차이
+- [에어컨 렌탈, 벽걸이·스탠드·2 in 1 어떤 걸 골라야 하나요?](https://gajeonrental.github.io/guide/aircon-types.html): 에어컨 종류 고르는 기준
+- [세탁기와 건조기, 용량은 몇 kg로 고르나요?](https://gajeonrental.github.io/guide/washer-dryer-capacity.html): 세탁기·건조기 용량 기준
+- [냉장고 렌탈, 용량과 도어 형태는 어떻게 고르나요?](https://gajeonrental.github.io/guide/fridge-capacity.html): 냉장고 용량·도어 기준
+- [사업장이나 매장에 가전을 렌탈할 때 확인할 것](https://gajeonrental.github.io/guide/business-rental.html): 사업장·매장 렌탈
+
+## 품목별 안내
+- [정수기 렌탈](https://gajeonrental.github.io/category/water-purifier.html): 상품 719개, 월 8,600원부터
+- [에어컨 렌탈](https://gajeonrental.github.io/category/aircon.html): 상품 244개, 월 9,500원부터
+- [세탁기 렌탈](https://gajeonrental.github.io/category/washer.html): 상품 211개, 월 8,000원부터
+- [냉장고 렌탈](https://gajeonrental.github.io/category/fridge.html): 상품 309개, 월 5,100원부터
+- [건조기 렌탈](https://gajeonrental.github.io/category/dryer.html): 상품 147개, 월 11,100원부터
+- [TV 렌탈](https://gajeonrental.github.io/category/tv.html): 상품 206개, 월 8,900원부터
+- [공기청정기 렌탈](https://gajeonrental.github.io/category/air-purifier.html): 상품 167개, 월 5,400원부터
+- [안마의자 렌탈](https://gajeonrental.github.io/category/massage-chair.html): 상품 123개, 월 26,900원부터
+- [냉난방기 렌탈](https://gajeonrental.github.io/category/hvac.html): 상품 175개, 월 25,500원부터
+- [음식물처리기 렌탈](https://gajeonrental.github.io/category/food-waste.html): 상품 75개, 월 9,900원부터
+- [컴퓨터 렌탈](https://gajeonrental.github.io/category/computer.html): 상품 25개, 월 36,000원부터
+- [업소용 가전 렌탈](https://gajeonrental.github.io/category/commercial.html): 상품 617개, 월 5,000원부터
+- [가구·침대 렌탈](https://gajeonrental.github.io/category/furniture-bed.html): 상품 687개, 월 11,900원부터
+- [생활가전 렌탈](https://gajeonrental.github.io/category/living.html): 상품 258개, 월 6,900원부터
+- [결합상품 렌탈](https://gajeonrental.github.io/category/bundle.html): 상품 131개, 월 18,800원부터
+- [세탁기 건조기 세트 렌탈](https://gajeonrental.github.io/category/washer-dryer-set.html): 상품 103개, 월 53,700원부터
+- [김치냉장고 렌탈](https://gajeonrental.github.io/category/kimchi-fridge.html): 상품 154개, 월 14,000원부터
+- [스탠드 에어컨 렌탈](https://gajeonrental.github.io/category/aircon-stand.html): 상품 89개, 월 35,900원부터
+- [벽걸이 에어컨 렌탈](https://gajeonrental.github.io/category/aircon-wall.html): 상품 45개, 월 14,900원부터
+- [2 in 1 에어컨 렌탈](https://gajeonrental.github.io/category/aircon-2in1.html): 상품 74개, 월 47,900원부터
+- [빠른설치 에어컨 렌탈](https://gajeonrental.github.io/category/aircon-fast.html): 상품 32개, 월 17,800원부터
+- [식기세척기 렌탈](https://gajeonrental.github.io/category/dishwasher.html): 상품 47개, 월 9,800원부터
+- [의류관리기 렌탈](https://gajeonrental.github.io/category/clothes-care.html): 상품 32개, 월 26,900원부터
+- [전기레인지 렌탈](https://gajeonrental.github.io/category/induction.html): 상품 56개, 월 6,200원부터
+- [커피머신 렌탈](https://gajeonrental.github.io/category/coffee-machine.html): 상품 31개, 월 10,900원부터
+- [제습기 렌탈](https://gajeonrental.github.io/category/dehumidifier.html): 상품 37개, 월 7,000원부터
+- [모니터 렌탈](https://gajeonrental.github.io/category/monitor.html): 상품 23개, 월 9,200원부터
+- [빔프로젝터 렌탈](https://gajeonrental.github.io/category/projector.html): 상품 23개, 월 24,100원부터
+- [업소용 스탠드 냉장고 렌탈](https://gajeonrental.github.io/category/commercial-fridge-stand.html): 상품 153개, 월 34,000원부터
+- [업소용 테이블 냉장고 렌탈](https://gajeonrental.github.io/category/commercial-fridge-table.html): 상품 71개, 월 27,000원부터
+- [상조 결합 가전 렌탈](https://gajeonrental.github.io/category/sangjo.html): 상품 366개, 월 29,500원부터
+- [주방가전 렌탈](https://gajeonrental.github.io/category/kitchen.html): 상품 600개, 월 4,900원부터
+- [세탁가전 렌탈](https://gajeonrental.github.io/category/laundry.html): 상품 291개, 월 8,000원부터
+- [건강·뷰티 가전 렌탈](https://gajeonrental.github.io/category/health.html): 상품 201개, 월 8,800원부터
+- [냉장가전 렌탈](https://gajeonrental.github.io/category/refrigeration.html): 상품 477개, 월 5,100원부터
+- [TV·디지털 기기 렌탈](https://gajeonrental.github.io/category/digital.html): 상품 345개, 월 8,100원부터
+- [계절·환경가전 렌탈](https://gajeonrental.github.io/category/season.html): 상품 297개, 월 5,400원부터
+- [레저·자동차 용품 렌탈](https://gajeonrental.github.io/category/leisure.html): 상품 62개, 월 8,800원부터
+- [빠른설치 냉난방기 렌탈](https://gajeonrental.github.io/category/hvac-fast.html): 상품 94개, 월 25,500원부터
+- [천장형 냉난방기 렌탈](https://gajeonrental.github.io/category/hvac-ceiling.html): 상품 60개, 월 57,500원부터
+- [스탠드형 냉난방기 렌탈](https://gajeonrental.github.io/category/hvac-stand.html): 상품 78개, 월 49,900원부터
+- [벽걸이 냉난방기 렌탈](https://gajeonrental.github.io/category/hvac-wall.html): 상품 24개, 월 25,500원부터
+- [산업용 히터 렌탈](https://gajeonrental.github.io/category/industrial-heater.html): 상품 11개, 월 29,500원부터
+- [침대 렌탈](https://gajeonrental.github.io/category/bed.html): 상품 175개, 월 15,500원부터
+- [매트리스 렌탈](https://gajeonrental.github.io/category/mattress.html): 상품 158개, 월 14,900원부터
+- [소파 렌탈](https://gajeonrental.github.io/category/sofa.html): 상품 148개, 월 17,000원부터
+- [건강침대·돌침대 렌탈](https://gajeonrental.github.io/category/health-bed.html): 상품 17개, 월 24,000원부터
+- [침대 프레임 렌탈](https://gajeonrental.github.io/category/bed-frame.html): 상품 123개, 월 11,900원부터
+- [모션베드 렌탈](https://gajeonrental.github.io/category/motion-bed.html): 상품 29개, 월 55,300원부터
+- [책상·의자 렌탈](https://gajeonrental.github.io/category/desk-chair.html): 상품 10개, 월 18,900원부터
+- [식탁·테이블 렌탈](https://gajeonrental.github.io/category/dining-table.html): 상품 15개, 월 32,100원부터
+- [수납가구 렌탈](https://gajeonrental.github.io/category/storage-furniture.html): 상품 12개, 월 40,200원부터
+- [김밥·토핑 냉장고 렌탈](https://gajeonrental.github.io/category/comm-kimbap.html): 상품 32개, 월 39,000원부터
+- [서랍식 냉장고 렌탈](https://gajeonrental.github.io/category/comm-drawer.html): 상품 35개, 월 67,500원부터
+- [냉동 쇼케이스 렌탈](https://gajeonrental.github.io/category/comm-showcase-freezer.html): 상품 30개, 월 27,000원부터
+- [반찬 냉장고 렌탈](https://gajeonrental.github.io/category/comm-banchan.html): 상품 28개, 월 30,000원부터
+- [업소용 식기세척기 렌탈](https://gajeonrental.github.io/category/comm-dishwasher.html): 상품 20개, 월 58,000원부터
+- [냉·온장 쇼케이스 렌탈](https://gajeonrental.github.io/category/comm-showcase.html): 상품 24개, 월 21,000원부터
+- [업소용 제빙기 렌탈](https://gajeonrental.github.io/category/comm-ice.html): 상품 18개, 월 45,500원부터
+- [고기 숙성고 렌탈](https://gajeonrental.github.io/category/comm-aging.html): 상품 13개, 월 64,000원부터
+- [육수·슬러시 냉장고 렌탈](https://gajeonrental.github.io/category/comm-soup.html): 상품 12개, 월 19,000원부터
+- [세스코 업소용 장비 렌탈](https://gajeonrental.github.io/category/comm-cesco.html): 상품 54개, 월 9,900원부터
+- [전기그리들 렌탈](https://gajeonrental.github.io/category/comm-griddle.html): 상품 16개, 월 25,000원부터
+- [업소용 전기 인덕션 렌지 렌탈](https://gajeonrental.github.io/category/comm-induction.html): 상품 10개, 월 43,300원부터
+- [콤프레샤 렌탈](https://gajeonrental.github.io/category/comm-compressor.html): 상품 10개, 월 176,000원부터
+- [로봇청소기 렌탈](https://gajeonrental.github.io/category/robot-cleaner.html): 상품 122개, 월 7,900원부터
+- [비데 렌탈](https://gajeonrental.github.io/category/bidet.html): 상품 76개, 월 6,900원부터
+- [반려동물 용품 렌탈](https://gajeonrental.github.io/category/pet.html): 상품 33개, 월 6,900원부터
+- [온수매트·전기매트 렌탈](https://gajeonrental.github.io/category/heating-mat.html): 상품 11개, 월 7,300원부터
+- [밥솥 렌탈](https://gajeonrental.github.io/category/rice-cooker.html): 상품 69개, 월 4,900원부터
+- [에어프라이어 렌탈](https://gajeonrental.github.io/category/air-fryer.html): 상품 12개, 월 4,900원부터
+- [오븐·전자레인지 렌탈](https://gajeonrental.github.io/category/oven.html): 상품 16개, 월 4,900원부터
+- [주방후드 렌탈](https://gajeonrental.github.io/category/range-hood.html): 상품 15개, 월 22,900원부터
+- [기타 주방가전 렌탈](https://gajeonrental.github.io/category/kitchen-etc.html): 상품 14개, 월 11,900원부터
+- [공기살균기 렌탈](https://gajeonrental.github.io/category/sterilizer.html): 상품 15개, 월 9,900원부터
+- [가습기 렌탈](https://gajeonrental.github.io/category/humidifier.html): 상품 10개, 월 7,900원부터
+- [환기가전 렌탈](https://gajeonrental.github.io/category/ventilation.html): 상품 40개, 월 11,900원부터
+- [바이러스케어 가전 렌탈](https://gajeonrental.github.io/category/virus-care.html): 상품 15개, 월 14,900원부터
+- [헬스기구 렌탈](https://gajeonrental.github.io/category/fitness.html): 상품 38개, 월 8,800원부터
+- [건강·의료기기 렌탈](https://gajeonrental.github.io/category/medical-device.html): 상품 21개, 월 23,000원부터
+- [전기자전거 렌탈](https://gajeonrental.github.io/category/ebike.html): 상품 41개, 월 16,800원부터
+- [산업용 에어컨 렌탈](https://gajeonrental.github.io/category/industrial-aircon.html): 상품 18개, 월 19,800원부터
+- [천장형 에어컨 렌탈](https://gajeonrental.github.io/category/aircon-ceiling.html): 상품 10개, 월 49,900원부터
+- [와인셀러 렌탈](https://gajeonrental.github.io/category/wine-cellar.html): 상품 14개, 월 6,800원부터
+- [노트북 렌탈](https://gajeonrental.github.io/category/laptop.html): 상품 19개, 월 57,400원부터
+- [스마트워치 렌탈](https://gajeonrental.github.io/category/smartwatch.html): 상품 18개, 월 8,100원부터
+- [액션캠·드론 렌탈](https://gajeonrental.github.io/category/action-cam.html): 상품 13개, 월 12,400원부터
+
+## 브랜드별 안내
+- [LG](https://gajeonrental.github.io/brand/lg.html): 취급 상품 1,165개
+- [삼성](https://gajeonrental.github.io/brand/samsung.html): 취급 상품 479개
+- [쿠쿠](https://gajeonrental.github.io/brand/cuckoo.html): 취급 상품 383개
+- [그랜드우성](https://gajeonrental.github.io/brand/grandwoosung.html): 취급 상품 260개
+- [코웨이](https://gajeonrental.github.io/brand/coway.html): 취급 상품 241개
+- [라셀르](https://gajeonrental.github.io/brand/lassele.html): 취급 상품 150개
+- [헨지디자인](https://gajeonrental.github.io/brand/hengedesign.html): 취급 상품 76개
+- [현대큐밍](https://gajeonrental.github.io/brand/hyundai-quming.html): 취급 상품 74개
+- [하이얼](https://gajeonrental.github.io/brand/haier.html): 취급 상품 71개
+- [스타리온](https://gajeonrental.github.io/brand/starion.html): 취급 상품 64개
+- [청호나이스](https://gajeonrental.github.io/brand/chungho.html): 취급 상품 62개
+- [라클라우드](https://gajeonrental.github.io/brand/lacloud.html): 취급 상품 61개
+- [퍼니챗](https://gajeonrental.github.io/brand/funnychat.html): 취급 상품 57개
+- [세스코](https://gajeonrental.github.io/brand/cesco.html): 취급 상품 54개
+- [로보락](https://gajeonrental.github.io/brand/roborock.html): 취급 상품 51개
+- [쉐우드](https://gajeonrental.github.io/brand/shewood.html): 취급 상품 50개
+- [캐리어](https://gajeonrental.github.io/brand/carrier.html): 취급 상품 48개
+- [젠티스](https://gajeonrental.github.io/brand/gentis.html): 취급 상품 44개
+- [레이윙](https://gajeonrental.github.io/brand/raywing.html): 취급 상품 41개
+- [SK매직](https://gajeonrental.github.io/brand/skmagic.html): 취급 상품 39개
+- [핸슨소파](https://gajeonrental.github.io/brand/hansonsofa.html): 취급 상품 35개
+- [한국갤러리](https://gajeonrental.github.io/brand/koreagallery.html): 취급 상품 35개
+- [웰스](https://gajeonrental.github.io/brand/wells.html): 취급 상품 34개
+- [웰템](https://gajeonrental.github.io/brand/weltem.html): 취급 상품 34개
+- [누하스](https://gajeonrental.github.io/brand/nuhas.html): 취급 상품 27개
+- [엡손](https://gajeonrental.github.io/brand/epson.html): 취급 상품 24개
+- [브람스](https://gajeonrental.github.io/brand/brahms.html): 취급 상품 23개
+
+## 회사 정보
+- [회사 정보](https://gajeonrental.github.io/about.html)
